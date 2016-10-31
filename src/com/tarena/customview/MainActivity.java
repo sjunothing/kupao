@@ -11,6 +11,7 @@ public class MainActivity extends Activity {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.activity_main);
 		//书生的聊而成成双对  绿水青山总相随  ok，maygoda
+		//wielajkdkhfkdhkfhdhfdkfhk
 	}
 
 	
